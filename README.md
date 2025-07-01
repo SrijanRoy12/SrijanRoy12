@@ -1,3 +1,43 @@
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A9DF&width=435&lines=Hello+%F0%9F%91%8B%2CThis+is+Srijan+%3A);Learning%2C+Exploring%2C+Improving" alt="Typing SVG" />
+</h1>
+
+<!-- Glowing Name -->
+<h2 align="center">
+  <span style="font-family: monospace; font-size: 28px; color: #00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 15px #00ffff;">
+    🚀 SRIJAN ROY 🚀
+  </span>
+</h2>
+
+<!-- Visitor Counter + GIF Row -->
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</strong></td>
+      <td><img src="https://profile-counter.glitch.me/srijanroy12/count.svg" alt="visitor count" /></td>
+      <td>
+        <img src="https://i.pinimg.com/originals/67/53/f1/6753f15d6979f1459e888f6d9a3e8d65.gif" width="200" height="150"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Personal Message -->
+<p align="center"><em>Striving to become the best version of myself 💫</em></p>
+
+<!-- Social Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/srijan-roy-iemians/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/its_ur_roy123/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg" alt="Spotify" /></a>
+</p>
+
+<!-- GitHub Activity Graph -->
+<h3 align="center">📈 GitHub Activity</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijanroy12&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
 <h1 align="center">Hi 👋, I'm Srijan Roy</h1>
 <h3 align="center">A passionate Frontend Developer and AI-ML Enthusiast from India 🇮🇳</h3>
 
@@ -47,3 +87,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijanroy12&show_icons=true&locale=en" alt="srijanroy12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijanroy12&" alt="srijanroy12" /></p>
+
+
