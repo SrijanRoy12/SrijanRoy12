@@ -27,7 +27,6 @@
   <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/hire_backends.png" alt="Developer Illustration" width="300"/>
 </div>
 
-
 <!-- Personal Message -->
 <p align="center"><em>Striving to become the best version of myself 💫</em></p>
 
