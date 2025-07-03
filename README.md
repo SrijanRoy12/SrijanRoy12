@@ -49,8 +49,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijanroy12" alt="srijanroy12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@srijanroy_iem" target="blank"><img src="https://img.shields.io/twitter/follow/@srijanroy_iem?logo=twitter&style=for-the-badge" alt="@srijanroy_iem" /></a> </p>
-
 - 🔭 I’m currently working on [Weather Pulse Pro– an interactive weather forecasting web app with real-time data, animations, and future predictions.](https://srijanroy12.github.io/Weather-Forecasting-App/)
 
 - 🌱 I’m currently learning **- 🤖 Artificial Intelligence & Machine Learning - 🧠 Natural Language Processing (NER, Sentiment Analysis, LLMs) - 🧮 Data Science & Model Deployment - 🖥️ Frontend Development (React.js, Streamlit, basic UI/UX) - ⚙️ Generative AI Tools (AutoGen, CrewAI)**
@@ -90,6 +88,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijanroy12&show_icons=true&locale=en" alt="srijanroy12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijanroy12&" alt="srijanroy12" /></p>
 
 
