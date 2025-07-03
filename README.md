@@ -15,7 +15,9 @@
   <table>
     <tr>
       <td><strong>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</strong></td>
-      <td><img src="https://profile-counter.glitch.me/srijanroy12/count.svg" alt="visitor count" /></td>
+      <td>
+        <img src="https://profile-counter.glitch.me/srijanroy12/count.svg" alt="visitor count" style="filter: drop-shadow(0 0 5px #00FF00) drop-shadow(0 0 10px #00FF00);" />
+      </td>
       <td>
         <img src="https://i.pinimg.com/originals/67/53/f1/6753f15d6979f1459e888f6d9a3e8d65.gif" width="200" height="150"/>
       </td>
@@ -23,9 +25,13 @@
   </table>
 </div>
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/hire_backends.png" alt="Developer Illustration" width="300"/>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/hire_backends.png" alt="Left Developer" width="300"/>
+  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/hire_backends.png" alt="Right Developer" width="300"/>
+  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/hire_backends.png" alt="Right Developer" width="300"/>
 </div>
+
 
 <!-- Personal Message -->
 <p align="center"><em>Striving to become the best version of myself 💫</em></p>
@@ -45,7 +51,14 @@
 <h1 align="center">Hi 👋, I'm Srijan Roy</h1>
 <h3 align="center">A passionate Frontend Developer and AI-ML Enthusiast from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanroy12&label=Profile%20views&color=0e75b6&style=flat" alt="srijanroy12" /> </p>
+<div align="center">
+  <span style="display: inline-block; padding: 12px 25px; border: 2px solid #00FF00; border-radius: 10px; background-color: #000000; font-size: 20px; font-weight: bold; font-family: 'Courier New', Courier, monospace; color: #00FF00; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">
+    👁️‍🗨️ Profile Views  
+    <img src="https://komarev.com/ghpvc/?username=srijanroy12&color=00FF00&style=flat-square" alt="srijanroy12" style="vertical-align: middle; margin-left: 10px; filter: drop-shadow(0 0 3px #00FF00) drop-shadow(0 0 6px #00FF00);" />
+  </span>
+</div>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijanroy12" alt="srijanroy12" /></a> </p>
 
@@ -87,6 +100,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijanroy12&show_icons=true&locale=en&layout=compact" alt="srijanroy12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijanroy12&show_icons=true&locale=en" alt="srijanroy12" /></p>
-
-
-
