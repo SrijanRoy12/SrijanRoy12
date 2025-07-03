@@ -6,7 +6,7 @@
 <!-- Glowing Name -->
 <h2 align="center">
   <span style="font-family: monospace; font-size: 28px; color: #00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 15px #00ffff;">
-    🚀 SRIJAN ROY 🚀
+    🚀 𝓢𝓡𝓘𝓙𝓐𝓝 𝓡𝓞𝓨 🚀
   </span>
 </h2>
 
@@ -14,7 +14,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><strong>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</strong></td>
+      <td><strong>𝙮𝙤𝙪 𝙖𝙧𝙚 𝙫𝙞𝙨𝙞𝙩𝙤𝙧</strong></td>
       <td>
         <img src="https://profile-counter.glitch.me/srijanroy12/count.svg" alt="visitor count" style="filter: drop-shadow(0 0 5px #00FF00) drop-shadow(0 0 10px #00FF00);" />
       </td>
@@ -28,13 +28,13 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/hire_backends.png" alt="Left Developer" width="300"/>
-  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/hire_backends.png" alt="Right Developer" width="300"/>
-  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/hire_backends.png" alt="Right Developer" width="300"/>
+  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/developer.avif" alt="Right Developer" width="300"/>
+  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/developer 2.jpg" alt="Right Developer" width="300"/>
 </div>
 
 
 <!-- Personal Message -->
-<p align="center"><em>Striving to become the best version of myself 💫</em></p>
+<p align="center"><em>𝙎𝙩𝙧𝙞𝙫𝙞𝙣𝙜 𝙩𝙤 𝙗𝙚𝙘𝙤𝙢𝙚 𝙩𝙝𝙚 𝙗𝙚𝙨𝙩 𝙫𝙚𝙧𝙨𝙞𝙤𝙣 𝙤𝙛 𝙢𝙮𝙨𝙚𝙡𝙛 💫</em></p>
 
 <!-- Social Icons -->
 <p align="center">
@@ -43,17 +43,18 @@
   <a href="https://open.spotify.com/"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg" alt="Spotify" /></a>
 </p>
 
-<!-- GitHub Activity Graph -->
-<h3 align="center">📈 GitHub Activity</h3>
+<!-- Colorful GitHub Activity Graph -->
+<h3 align="center"><strong>🚀 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲</strong></h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijanroy12&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijanroy12&theme=react-dark&area=true&hide_border=true&custom_title=Srijan's%20Commit%20Graph🚀" alt="GitHub Activity Graph" />
 </p>
-<h1 align="center">Hi 👋, I'm Srijan Roy</h1>
+
+<h1 align="center"𝓗𝓲 👋, 𝓘'𝓶 𝓢𝓻𝓲𝓳𝓪𝓷 𝓡𝓸𝔂</h1>
 <h3 align="center">A passionate Frontend Developer and AI-ML Enthusiast from India 🇮🇳</h3>
 
 <div align="center">
   <span style="display: inline-block; padding: 12px 25px; border: 2px solid #00FF00; border-radius: 10px; background-color: #000000; font-size: 20px; font-weight: bold; font-family: 'Courier New', Courier, monospace; color: #00FF00; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">
-    👁️‍🗨️ Profile Views  
+    👁️‍🗨️ ℙ𝕣𝕠𝕗𝕚𝕝𝕖 𝕍𝕚𝕖𝕨𝕤  
     <img src="https://komarev.com/ghpvc/?username=srijanroy12&color=00FF00&style=flat-square" alt="srijanroy12" style="vertical-align: middle; margin-left: 10px; filter: drop-shadow(0 0 3px #00FF00) drop-shadow(0 0 6px #00FF00);" />
   </span>
 </div>
@@ -62,25 +63,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijanroy12" alt="srijanroy12" /></a> </p>
 
-- 🔭 I’m currently working on [Weather Pulse Pro– an interactive weather forecasting web app with real-time data, animations, and future predictions.](https://srijanroy12.github.io/Weather-Forecasting-App/)
+- 🔭 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟 [Weather Pulse Pro– an interactive weather forecasting web app with real-time data, animations, and future predictions.](https://srijanroy12.github.io/Weather-Forecasting-App/)
 
-- 🌱 I’m currently learning **- 🤖 Artificial Intelligence & Machine Learning - 🧠 Natural Language Processing (NER, Sentiment Analysis, LLMs) - 🧮 Data Science & Model Deployment - 🖥️ Frontend Development (React.js, Streamlit, basic UI/UX) - ⚙️ Generative AI Tools (AutoGen, CrewAI)**
+- 🌱 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 **- 🤖 Artificial Intelligence & Machine Learning - 🧠 Natural Language Processing (NER, Sentiment Analysis, LLMs) - 🧮 Data Science & Model Deployment - 🖥️ Frontend Development (React.js, Streamlit, basic UI/UX) - ⚙️ Generative AI Tools (AutoGen, CrewAI)**
 
-- 👯 I’m looking to collaborate on [AI- Powered Translator App– breaking language barriers using real-time speech/text translation powered by machine learning.](https://github.com/SrijanRoy12/AI-powered-Translator-App)
+- 👯 𝕀’𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 [AI- Powered Translator App– breaking language barriers using real-time speech/text translation powered by machine learning.](https://github.com/SrijanRoy12/AI-powered-Translator-App)
 
-- 🤝 I’m looking for help with [Multi-Agent Simulation for Smart Cities a generative AI project using agentic frameworks like AutoGen or CrewAI to manage traffic, pollution, emergencies, and more.](https://iem-summer-internship-aymvob2yhbn8ad8mthgxnm.streamlit.app/)
+- 🤝 𝕀’𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕗𝕠𝕣 𝕙𝕖𝕝𝕡 𝕨𝕚𝕥𝕙 [Multi-Agent Simulation for Smart Cities a generative AI project using agentic frameworks like AutoGen or CrewAI to manage traffic, pollution, emergencies, and more.](https://iem-summer-internship-aymvob2yhbn8ad8mthgxnm.streamlit.app/)
 
-- 👨‍💻 All of my projects are available at 🌐My Portfolio [https://srijanroy12.github.io/Srijan_portfolio/](https://srijanroy12.github.io/Srijan_portfolio/)
+- 👨‍💻 𝔸𝕝𝕝 𝕠𝕗 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕒𝕣𝕖 𝕒𝕧𝕒𝕚𝕝𝕒𝕓𝕝𝕖 𝕒𝕥 🌐𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 [https://srijanroy12.github.io/Srijan_portfolio/](https://srijanroy12.github.io/Srijan_portfolio/)
 
-- 📝 I regularly write articles on ✍️Linkdln [https://www.linkedin.com/in/srijan-roy-iemians/](https://www.linkedin.com/in/srijan-roy-iemians/)
+- 📝 𝕀 𝕣𝕖𝕘𝕦𝕝𝕒𝕣𝕝𝕪 𝕨𝕣𝕚𝕥𝕖 𝕒𝕣𝕥𝕚𝕔𝕝𝕖𝕤 𝕠𝕟 ✍️𝕃𝕚𝕟𝕜𝕕𝕝𝕟 [https://www.linkedin.com/in/srijan-roy-iemians/](https://www.linkedin.com/in/srijan-roy-iemians/)
 
-- 💬 Ask me about **Machine Learning`, `NLP`, `Generative AI`, `Model Deployment`, and beginner-level `React` or `Streamlit`**
+- 💬𝔸𝕤𝕜 𝕞𝕖 𝕒𝕓𝕠𝕦𝕥 **𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜`, `𝙉𝙇𝙋`, `𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙞𝙫𝙚 𝘼𝙄`, `𝙈𝙤𝙙𝙚𝙡 𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩`, 𝙖𝙣𝙙 𝙗𝙚𝙜𝙞𝙣𝙣𝙚𝙧-𝙡𝙚𝙫𝙚𝙡 `𝙍𝙚𝙖𝙘𝙩` 𝙤𝙧 `𝙎𝙩𝙧𝙚𝙖𝙢𝙡𝙞𝙩`**
 
 - 📫 How to reach me **roysrijan53@gmail.com**
 
-- 📄 Know about my experiences. Visit my 📁Resume [https://drive.google.com/file/d/1kIrOKtemB3YRVz9KF0G9xav509Zihq8G/view?usp=sharing](https://drive.google.com/file/d/1kIrOKtemB3YRVz9KF0G9xav509Zihq8G/view?usp=sharing)
+- 📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨. 𝙑𝙞𝙨𝙞𝙩 𝙢𝙮 📁𝙍𝙚𝙨𝙪𝙢𝙚 [https://drive.google.com/file/d/1kIrOKtemB3YRVz9KF0G9xav509Zihq8G/view?usp=sharing](https://drive.google.com/file/d/1kIrOKtemB3YRVz9KF0G9xav509Zihq8G/view?usp=sharing)
 
-- ⚡ Fun fact **I love building smart tools that "think," and I treat my AI agents like teammates 🤖😄**
+- ⚡𝓕𝓾𝓷 𝓯𝓪𝓬𝓽 **I love building smart tools that "think," and I treat my AI agents like teammates 🤖😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
