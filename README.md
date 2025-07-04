@@ -105,6 +105,36 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijanroy12&show_icons=true&locale=en" alt="srijanroy12" /></p>
 
+<!-- Last logo -->
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/srijan-roy-iemians/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://srijanroy12.github.io/Srijan_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-006400?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://discord.com/channels/1156990292789035060/1156990292789035063" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://www.instagram.com/its_ur_roy123/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://x.com/srijanroy_iem" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://leetcode.com/problemset/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-3C873A?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/roysriay80/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/roysrijan53" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+</p>
+
+
+
 <hr>
 <p align="center" style="font-family:monospace; font-size:16px;">
   ⚡Crafted with Code 👨‍💻,🚀Fueled by Innovation🧠— <strong>Srijan Roy</strong> | CSE @ IEM Kolkata 📍
