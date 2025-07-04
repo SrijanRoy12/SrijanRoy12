@@ -57,7 +57,7 @@
 
 <div align="center">
   <span style="display: inline-block; padding: 12px 25px; border: 2px solid #00FF00; border-radius: 10px; background-color: #000000; font-size: 20px; font-weight: bold; font-family: 'Courier New', Courier, monospace; color: #00FF00; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">
-    👁️‍🗨️ ℙ𝕣𝕠𝕗𝕚𝕝𝕖 𝕍𝕚𝕖𝕨𝕤  
+    👁️‍🗨️ ℙ𝕣𝕠𝕗𝕚𝕝𝕖 𝕍𝕚𝕖𝕨𝕤 👉
     <img src="https://komarev.com/ghpvc/?username=srijanroy12&color=00FF00&style=flat-square" alt="srijanroy12" style="vertical-align: middle; margin-left: 10px; filter: drop-shadow(0 0 3px #00FF00) drop-shadow(0 0 6px #00FF00);" />
   </span>
 </div>
@@ -66,7 +66,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijanroy12" alt="srijanroy12" /></a> </p>
 
-- 🔭 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟 [Weather Pulse Pro– an interactive weather forecasting web app with real-time data, animations, and future predictions.](https://srijanroy12.github.io/Weather-Forecasting-App/)
+- 🔭 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟👉 [Weather Pulse Pro– an interactive weather forecasting web app with real-time data, animations, and future predictions.](https://srijanroy12.github.io/Weather-Forecasting-App/)
 
 - 🌱 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 **- 🤖 Artificial Intelligence & Machine Learning - 🧠 Natural Language Processing (NER, Sentiment Analysis, LLMs) - 🧮 Data Science & Model Deployment - 🖥️ Frontend Development (React.js, Streamlit, basic UI/UX) - ⚙️ Generative AI Tools (AutoGen, CrewAI)**
 
@@ -74,13 +74,13 @@
 
 - 🤝 𝕀’𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕗𝕠𝕣 𝕙𝕖𝕝𝕡 𝕨𝕚𝕥𝕙 [Multi-Agent Simulation for Smart Cities a generative AI project using agentic frameworks like AutoGen or CrewAI to manage traffic, pollution, emergencies, and more.](https://iem-summer-internship-aymvob2yhbn8ad8mthgxnm.streamlit.app/)
 
-- 👨‍💻 𝔸𝕝𝕝 𝕠𝕗 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕒𝕣𝕖 𝕒𝕧𝕒𝕚𝕝𝕒𝕓𝕝𝕖 𝕒𝕥 🌐𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 [https://srijanroy12.github.io/Srijan_portfolio/](https://srijanroy12.github.io/Srijan_portfolio/)
+- 👨‍💻 𝔸𝕝𝕝 𝕠𝕗 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕒𝕣𝕖 𝕒𝕧𝕒𝕚𝕝𝕒𝕓𝕝𝕖 𝕒𝕥👉 🌐𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 [https://srijanroy12.github.io/Srijan_portfolio/](https://srijanroy12.github.io/Srijan_portfolio/)
 
 - 📝 𝕀 𝕣𝕖𝕘𝕦𝕝𝕒𝕣𝕝𝕪 𝕨𝕣𝕚𝕥𝕖 𝕒𝕣𝕥𝕚𝕔𝕝𝕖𝕤 𝕠𝕟 ✍️𝕃𝕚𝕟𝕜𝕕𝕝𝕟 [https://www.linkedin.com/in/srijan-roy-iemians/](https://www.linkedin.com/in/srijan-roy-iemians/)
 
 - 💬𝔸𝕤𝕜 𝕞𝕖 𝕒𝕓𝕠𝕦𝕥 **𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜`, `𝙉𝙇𝙋`, `𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙞𝙫𝙚 𝘼𝙄`, `𝙈𝙤𝙙𝙚𝙡 𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩`, 𝙖𝙣𝙙 𝙗𝙚𝙜𝙞𝙣𝙣𝙚𝙧-𝙡𝙚𝙫𝙚𝙡 `𝙍𝙚𝙖𝙘𝙩` 𝙤𝙧 `𝙎𝙩𝙧𝙚𝙖𝙢𝙡𝙞𝙩`**
 
-- 📫 How to reach me **roysrijan53@gmail.com**
+- 📫 How to reach me 👉**roysrijan53@gmail.com**
 
 - 📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨. 𝙑𝙞𝙨𝙞𝙩 𝙢𝙮 📁𝙍𝙚𝙨𝙪𝙢𝙚 [https://drive.google.com/file/d/1kIrOKtemB3YRVz9KF0G9xav509Zihq8G/view?usp=sharing](https://drive.google.com/file/d/1kIrOKtemB3YRVz9KF0G9xav509Zihq8G/view?usp=sharing)
 
