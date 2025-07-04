@@ -131,6 +131,9 @@
   <a href="https://www.hackerrank.com/profile/roysrijan53" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
+<a href="https://www.kaggle.com/srijaniem2024" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+</a>
 </p>
 
 
