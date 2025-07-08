@@ -51,6 +51,24 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijanroy12&theme=react-dark&area=true&hide_border=true&custom_title=Srijan's%20Commit%20Graph🚀" alt="GitHub Activity Graph" />
 </p>
+</p>
+<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more "INFO" about me...</h2>
+
+- 🎓 Final year Computer Science undergraduate student,IEM
+- 🤖 Passionate about Machine Learning, Frontend Development, real-world problem solving & AI integration
+- 💻 I love building impactful apps — from disease prediction,weather App to movie rating engines
+- 🔭 Currently focused on placement prep and upskilling through projects and Internships
+- 🎨 A creative at heart — I draw to relax, cook to unwind, and code to build!
+- ☕ Fun fact: Caffeine runs in my veins — especially during Streamlit app marathons 😄
+- 📫 Reach me at: roysrijan53@gmail.com or srijan.Roy2022@iem.edu.in
+- 📫 Reach me at: https://www.linkedin.com/in/srijan-roy-iemians/
+- 🌐 My Portfolio: https://srijanroy12.github.io/Srijan_portfolio/ 
+- 📄 Check out my résumé: <a href="https://drive.google.com/file/d/1QCvc4H-b7-krTi8PsxhGMQ9FoXYm4TjW/view?usp=sharing">View Resume</a>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
+
 
 <h1 align="center"𝓗𝓲 👋, 𝓘'𝓶 𝓢𝓻𝓲𝓳𝓪𝓷 𝓡𝓸𝔂</h1>
 <h3 align="center"><strong>𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓪𝓷𝓭 𝓐𝓘-𝓜𝓛 𝓔𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪 🇮🇳</strong></h3>
