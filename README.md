@@ -1,8 +1,9 @@
 <!-- Typing Animation -->
 <!-- Typing Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Srijan+Roy;AI-ML+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+Developer+%F0%9F%92%BB;Learning+%F0%9F%93%9A%2C+Exploring+%F0%9F%94%8E%2C+Building+%F0%9F%9B%A0%EF%B8%8F;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Srijan+Roy;AI-ML+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+Developer+%F0%9F%92%BB;Learning+%F0%9F%93%9A%2C+Exploring+%F0%9F%94%8E%2C+Building+%F0%9F%9B%A0%EF%B8%8F;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing Header" />
 </h1>
+
 
 
 
@@ -19,7 +20,7 @@
     <tr>
       <td><strong>𝙮𝙤𝙪 𝙖𝙧𝙚 𝙫𝙞𝙨𝙞𝙩𝙤𝙧</strong></td>
       <td>
-        <img src="https://profile-counter.glitch.me/srijanroy12/count.svg" alt="visitor count" style="filter: drop-shadow(0 0 5px #00FF00) drop-shadow(0 0 10px #00FF00);" />
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=srijanroy12.visitor-badge&color=%2300FF00" alt="visitor count" style="filter: drop-shadow(0 0 5px #00FF00) drop-shadow(0 0 10px #00FF00);" />
       </td>
       <td>
         <img src="https://i.pinimg.com/originals/67/53/f1/6753f15d6979f1459e888f6d9a3e8d65.gif" width="200" height="150"/>
@@ -27,6 +28,10 @@
     </tr>
   </table>
 </div>
+
+
+
+
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
