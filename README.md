@@ -15,15 +15,31 @@
 </h2>
 
 <!-- Visitor Counter + GIF Row -->
-<div align="center">
-  <table>
+<div align="center" style="margin: 20px 0;">
+  <table style="border-collapse: separate; border-spacing: 15px;">
     <tr>
-      <td><strong>𝙮𝙤𝙪 𝙖𝙧𝙚 𝙫𝙞𝙨𝙞𝙩𝙤𝙧</strong></td>
-      <td>
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=srijanroy12.visitor-badge&color=%2300FF00" alt="visitor count" style="filter: drop-shadow(0 0 5px #00FF00) drop-shadow(0 0 10px #00FF00);" />
+      <td style="vertical-align: middle;">
+        <strong style="
+          font-family: 'Arial Rounded MT Bold', sans-serif;
+          font-size: 1.8rem;
+          color: #00FF00;
+          text-shadow: 0 0 8px #00FF00;
+          letter-spacing: 1px;
+        ">𝙔𝙊𝙐 𝘼𝙍𝙀 𝙑𝙄𝙎𝙄𝙏𝙊𝙍</strong>
       </td>
-      <td>
-        <img src="https://i.pinimg.com/originals/67/53/f1/6753f15d6979f1459e888f6d9a3e8d65.gif" width="200" height="150"/>
+      <td style="vertical-align: middle;">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=srijanroy12.visitor-badge&color=%2300FF00&style=for-the-badge" 
+             alt="visitor count" 
+             style="
+               height: 50px;
+               filter: drop-shadow(0 0 5px #00FF00) drop-shadow(0 0 15px #00FF00);
+             " />
+      </td>
+      <td style="vertical-align: middle;">
+        <img src="https://i.pinimg.com/originals/67/53/f1/6753f15d6979f1459e888f6d9a3e8d65.gif" 
+             width="180" 
+             height="135"
+             style="border-radius: 10px; border: 2px solid #00FF00;" />
       </td>
     </tr>
   </table>
