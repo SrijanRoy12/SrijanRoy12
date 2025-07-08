@@ -46,10 +46,6 @@
 </div>
 
 
-
-
-
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/hire_backends.png" alt="Left Developer" width="250"/>
   <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/developer.avif" alt="Right Developer" width="250"/>
