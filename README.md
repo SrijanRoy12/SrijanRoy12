@@ -71,6 +71,7 @@
 </p>
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more "INFO" about me...</h2>
 
+
 - 🎓 Final year Computer Science undergraduate student,IEM
 - 🤖 Passionate about Machine Learning, Frontend Development, real-world problem solving & AI integration
 - 💻 I love building impactful apps — from disease prediction,weather App to movie rating engines
