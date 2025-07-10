@@ -64,61 +64,41 @@
 </p>
 
 <!-- Top Contributed Repositories Section -->
-<h2 align="center">🌟 Top Contributed Repositories</h2>
+<h2 align="center">🌟 Srijan Roy's Top Contributed Repositories 🌟</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-
-  <!-- Repo Card 1 -->
-  <div style="background: linear-gradient(135deg, #1f1f1f, #0d1117); border: 1px solid #30363d; border-radius: 15px; padding: 20px; width: 280px; color: #c9d1d9;">
-    <h3 style="margin-top: 0;">
-      <img src="https://github.com/SrijanRoy12.png" width="25" style="border-radius: 50%;"/>
-      <a href="https://github.com/SrijanRoy12/Youtube-Transcript-Summarizer" style="color: #58a6ff; text-decoration: none;">Youtube-Transcript-Summarizer</a>
-    </h3>
-    <p>📝 Summarizes YouTube video transcripts using NLP.</p>
-    <span style="background-color: #238636; padding: 5px 10px; border-radius: 10px; font-size: 0.85rem;">⭐ Rank: 🅰️</span>
-  </div>
-
-  <!-- Repo Card 2 -->
-  <div style="background: linear-gradient(135deg, #1f1f1f, #0d1117); border: 1px solid #30363d; border-radius: 15px; padding: 20px; width: 280px; color: #c9d1d9;">
-    <h3>
-      <img src="https://github.com/SrijanRoy12.png" width="25" style="border-radius: 50%;"/>
-      <a href="https://github.com/SrijanRoy12/Breast-Cancer-Detection-API" style="color: #58a6ff; text-decoration: none;">Breast-Cancer-Detection-API</a>
-    </h3>
-    <p>🔬 Detects breast cancer using ML models served as an API.</p>
-    <span style="background-color: #f85149; padding: 5px 10px; border-radius: 10px; font-size: 0.85rem;">⭐ Rank: 🅰️</span>
-  </div>
-
-  <!-- Repo Card 3 -->
-  <div style="background: linear-gradient(135deg, #1f1f1f, #0d1117); border: 1px solid #30363d; border-radius: 15px; padding: 20px; width: 280px; color: #c9d1d9;">
-    <h3>
-      <img src="https://github.com/SrijanRoy12.png" width="25" style="border-radius: 50%;"/>
-      <a href="https://github.com/SrijanRoy12/AI-powered-Translator-App" style="color: #58a6ff; text-decoration: none;">AI-powered-Translator-App</a>
-    </h3>
-    <p>🌐 A multilingual translator powered by AI models.</p>
-    <span style="background-color: #8e44ad; padding: 5px 10px; border-radius: 10px; font-size: 0.85rem;">⭐ Rank: 🅱️</span>
-  </div>
-
-  <!-- Repo Card 4 -->
-  <div style="background: linear-gradient(135deg, #1f1f1f, #0d1117); border: 1px solid #30363d; border-radius: 15px; padding: 20px; width: 280px; color: #c9d1d9;">
-    <h3>
-      <img src="https://github.com/SrijanRoy12.png" width="25" style="border-radius: 50%;"/>
-      <a href="https://github.com/SrijanRoy12/Weather-Forecasting-App" style="color: #58a6ff; text-decoration: none;">Weather-Forecasting-App</a>
-    </h3>
-    <p>⛅ Predicts weather conditions using historical data.</p>
-    <span style="background-color: #1d76db; padding: 5px 10px; border-radius: 10px; font-size: 0.85rem;">⭐ Rank: 🅱️</span>
-  </div>
-
-  <!-- Repo Card 5 -->
-  <div style="background: linear-gradient(135deg, #1f1f1f, #0d1117); border: 1px solid #30363d; border-radius: 15px; padding: 20px; width: 280px; color: #c9d1d9;">
-    <h3>
-      <img src="https://github.com/SrijanRoy12.png" width="25" style="border-radius: 50%;"/>
-      <a href="https://github.com/SrijanRoy12/IPL-Prediction-APP" style="color: #58a6ff; text-decoration: none;">IPL-Prediction-APP</a>
-    </h3>
-    <p>🏏 Predicts IPL match outcomes using player and team data.</p>
-    <span style="background-color: #ffa500; padding: 5px 10px; border-radius: 10px; font-size: 0.85rem;">⭐ Rank: 🅱️</span>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="300" valign="top">
+      <h3><a href="https://github.com/SrijanRoy12/Youtube-Transcript-Summarizer">▶️ Youtube-Transcript-Summarizer🔴</a></h3>
+      <p>📝 Summarizes YouTube video transcripts using NLP.</p>
+      <p><strong>Rank:</strong> A</p>
+    </td>
+    <td width="300" valign="top">
+      <h3><a href="https://github.com/SrijanRoy12/Breast-Cancer-Detection-API">⚕️Breast-Cancer-Detection-API 💊</a></h3>
+      <p>🔬 Detects breast cancer using ML models served as an API.</p>
+      <p><strong>Rank:</strong> A</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" valign="top">
+      <h3><a href="https://github.com/SrijanRoy12/AI-powered-Translator-App">🤖 AI-powered-Translator-App ✨</a></h3>
+      <p>🌐 A multilingual translator powered by AI models.</p>
+      <p><strong>Rank:</strong> A</p>
+    </td>
+    <td width="300" valign="top">
+      <h3><a href="https://github.com/SrijanRoy12/Weather-Forecasting-App">🌦️ Weather-Forecasting-App 🌡️</a></h3>
+      <p>⛅ Predicts weather conditions using historical data.</p>
+      <p><strong>Rank:</strong> A</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" valign="top" colspan="2" align="center">
+      <h3><a href="https://github.com/SrijanRoy12/IPL-Prediction-APP">🏅 IPL-Prediction-APP 🥎</a></h3>
+      <p>🏏 Predicts IPL match outcomes using player and team data.</p>
+      <p><strong>Rank:</strong> B</p>
+    </td>
+  </tr>
+</table>
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more "INFO" about me...</h2>
 
