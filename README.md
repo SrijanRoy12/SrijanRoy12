@@ -1,11 +1,7 @@
 <!-- Typing Animation -->
-<!-- Typing Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Srijan+Roy;AI-ML+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+Developer+%F0%9F%92%BB;Learning+%F0%9F%93%9A%2C+Exploring+%F0%9F%94%8E%2C+Building+%F0%9F%9B%A0%EF%B8%8F;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing Header" />
 </h1>
-
-
-
 
 <!-- Glowing Name -->
 <h2 align="center">
@@ -45,13 +41,11 @@
   </table>
 </div>
 
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/hire_backends.png" alt="Left Developer" width="250"/>
   <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/developer.avif" alt="Right Developer" width="250"/>
   <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/developer 2.jpg" alt="Right Developer" width="250"/>
 </div>
-
 
 <!-- Personal Message -->
 <p align="center"><em>𝙎𝙩𝙧𝙞𝙫𝙞𝙣𝙜 𝙩𝙤 𝙗𝙚𝙘𝙤𝙢𝙚 𝙩𝙝𝙚 𝙗𝙚𝙨𝙩 𝙫𝙚𝙧𝙨𝙞𝙤𝙣 𝙤𝙛 𝙢𝙮𝙨𝙚𝙡𝙛 💫</em></p>
@@ -68,9 +62,65 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijanroy12&theme=react-dark&area=true&hide_border=true&custom_title=Srijan's%20Commit%20Graph🚀" alt="GitHub Activity Graph" />
 </p>
-</p>
-<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more "INFO" about me...</h2>
 
+<!-- Top Contributed Repositories Section -->
+<h2 align="center">🌟 Top Contributed Repositories</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+
+  <!-- Repo Card 1 -->
+  <div style="background: linear-gradient(135deg, #1f1f1f, #0d1117); border: 1px solid #30363d; border-radius: 15px; padding: 20px; width: 280px; color: #c9d1d9;">
+    <h3 style="margin-top: 0;">
+      <img src="https://github.com/SrijanRoy12.png" width="25" style="border-radius: 50%;"/>
+      <a href="https://github.com/SrijanRoy12/Youtube-Transcript-Summarizer" style="color: #58a6ff; text-decoration: none;">Youtube-Transcript-Summarizer</a>
+    </h3>
+    <p>📝 Summarizes YouTube video transcripts using NLP.</p>
+    <span style="background-color: #238636; padding: 5px 10px; border-radius: 10px; font-size: 0.85rem;">⭐ Rank: 🅰️</span>
+  </div>
+
+  <!-- Repo Card 2 -->
+  <div style="background: linear-gradient(135deg, #1f1f1f, #0d1117); border: 1px solid #30363d; border-radius: 15px; padding: 20px; width: 280px; color: #c9d1d9;">
+    <h3>
+      <img src="https://github.com/SrijanRoy12.png" width="25" style="border-radius: 50%;"/>
+      <a href="https://github.com/SrijanRoy12/Breast-Cancer-Detection-API" style="color: #58a6ff; text-decoration: none;">Breast-Cancer-Detection-API</a>
+    </h3>
+    <p>🔬 Detects breast cancer using ML models served as an API.</p>
+    <span style="background-color: #f85149; padding: 5px 10px; border-radius: 10px; font-size: 0.85rem;">⭐ Rank: 🅰️</span>
+  </div>
+
+  <!-- Repo Card 3 -->
+  <div style="background: linear-gradient(135deg, #1f1f1f, #0d1117); border: 1px solid #30363d; border-radius: 15px; padding: 20px; width: 280px; color: #c9d1d9;">
+    <h3>
+      <img src="https://github.com/SrijanRoy12.png" width="25" style="border-radius: 50%;"/>
+      <a href="https://github.com/SrijanRoy12/AI-powered-Translator-App" style="color: #58a6ff; text-decoration: none;">AI-powered-Translator-App</a>
+    </h3>
+    <p>🌐 A multilingual translator powered by AI models.</p>
+    <span style="background-color: #8e44ad; padding: 5px 10px; border-radius: 10px; font-size: 0.85rem;">⭐ Rank: 🅱️</span>
+  </div>
+
+  <!-- Repo Card 4 -->
+  <div style="background: linear-gradient(135deg, #1f1f1f, #0d1117); border: 1px solid #30363d; border-radius: 15px; padding: 20px; width: 280px; color: #c9d1d9;">
+    <h3>
+      <img src="https://github.com/SrijanRoy12.png" width="25" style="border-radius: 50%;"/>
+      <a href="https://github.com/SrijanRoy12/Weather-Forecasting-App" style="color: #58a6ff; text-decoration: none;">Weather-Forecasting-App</a>
+    </h3>
+    <p>⛅ Predicts weather conditions using historical data.</p>
+    <span style="background-color: #1d76db; padding: 5px 10px; border-radius: 10px; font-size: 0.85rem;">⭐ Rank: 🅱️</span>
+  </div>
+
+  <!-- Repo Card 5 -->
+  <div style="background: linear-gradient(135deg, #1f1f1f, #0d1117); border: 1px solid #30363d; border-radius: 15px; padding: 20px; width: 280px; color: #c9d1d9;">
+    <h3>
+      <img src="https://github.com/SrijanRoy12.png" width="25" style="border-radius: 50%;"/>
+      <a href="https://github.com/SrijanRoy12/IPL-Prediction-APP" style="color: #58a6ff; text-decoration: none;">IPL-Prediction-APP</a>
+    </h3>
+    <p>🏏 Predicts IPL match outcomes using player and team data.</p>
+    <span style="background-color: #ffa500; padding: 5px 10px; border-radius: 10px; font-size: 0.85rem;">⭐ Rank: 🅱️</span>
+  </div>
+
+</div>
+
+<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more "INFO" about me...</h2>
 
 - 🎓 Final year Computer Science undergraduate student,IEM
 - 🤖 Passionate about Machine Learning, Frontend Development, real-world problem solving & AI integration
@@ -87,9 +137,8 @@
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
 </p>
 
-
 <h1 align="center"𝓗𝓲 👋, 𝓘'𝓶 𝓢𝓻𝓲𝓳𝓪𝓷 𝓡𝓸𝔂</h1>
-<h3 align="center"><strong>𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓪𝓷𝓭 𝓐𝓘-𝓜𝓛 𝓔𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪 🇮🇳</strong></h3>
+<h3 align="center"><strong>𝓐 𝓹𝓪�𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓪𝓷𝓭 𝓐𝓘-𝓜� 𝓔𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪 🇮🇳</strong></h3>
 
 <div align="center">
   <span style="display: inline-block; padding: 12px 25px; border: 2px solid #00FF00; border-radius: 10px; background-color: #000000; font-size: 20px; font-weight: bold; font-family: 'Courier New', Courier, monospace; color: #00FF00; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">
@@ -98,21 +147,19 @@
   </span>
 </div>
 
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijanroy12" alt="srijanroy12" /></a> </p>
 
-- 🔭 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟👉 [Weather Pulse Pro– an interactive weather forecasting web app with real-time data, animations, and future predictions.](https://srijanroy12.github.io/Weather-Forecasting-App/)
+- 🔭 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟👉 [Weather Pulse Pro– an interactive weather forecasting web app with real-time data, animations, and future predictions.](https://srijanroy12.github.io/Weather-Forecasting-App/)
 
-- 🌱 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 **- 🤖 Artificial Intelligence & Machine Learning - 🧠 Natural Language Processing (NER, Sentiment Analysis, LLMs) - 🧮 Data Science & Model Deployment - 🖥️ Frontend Development (React.js, Streamlit, basic UI/UX) - ⚙️ Generative AI Tools (AutoGen, CrewAI)**
+- 🌱 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 **- 🤖 Artificial Intelligence & Machine Learning - 🧠 Natural Language Processing (NER, Sentiment Analysis, LLMs) - 🧮 Data Science & Model Deployment - 🖥️ Frontend Development (React.js, Streamlit, basic UI/UX) - ⚙️ Generative AI Tools (AutoGen, CrewAI)**
 
-- 👯 𝕀’𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 [AI- Powered Translator App– breaking language barriers using real-time speech/text translation powered by machine learning.](https://github.com/SrijanRoy12/AI-powered-Translator-App)
--  👨‍💻 𝕀’𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 -🧠 AI-Powered Diabetes Predictor — enabling early detection through real-time medical risk assessment using machine learning.([https://diabetes-prediction-api-jjtssqxzz9unwzzy974y9c.streamlit.app/])
--  👨‍💻 𝕀’𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 -🔬 AI-Powered Breast Cancer Detection App – accelerating early diagnosis using real-time analysis of medical data, powered by machine learning.([https://breast-cancer-detection-api-jdb5xa33cjknmuvswsjrqg.streamlit.app/])
+- 👯 𝕀'𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 [AI- Powered Translator App– breaking language barriers using real-time speech/text translation powered by machine learning.](https://github.com/SrijanRoy12/AI-powered-Translator-App)
+-  👨‍💻 𝕀'𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 -🧠 AI-Powered Diabetes Predictor — enabling early detection through real-time medical risk assessment using machine learning.([https://diabetes-prediction-api-jjtssqxzz9unwzzy974y9c.streamlit.app/])
+-  👨‍💻 𝕀'𝕞 𝕝�𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 -🔬 AI-Powered Breast Cancer Detection App – accelerating early diagnosis using real-time analysis of medical data, powered by machine learning.([https://breast-cancer-detection-api-jdb5xa33cjknmuvswsjrqg.streamlit.app/])
 
-- 🤝 𝕀’𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕗𝕠𝕣 𝕙𝕖𝕝𝕡 𝕨𝕚𝕥𝕙 [Multi-Agent Simulation for Smart Cities a generative AI project using agentic frameworks like AutoGen or CrewAI to manage traffic, pollution, emergencies, and more.](https://iem-summer-internship-aymvob2yhbn8ad8mthgxnm.streamlit.app/)
+- 🤝 𝕀'𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕗𝕠𝕣 𝕙𝕖𝕝𝕡 𝕨𝕚𝕥𝕙 [Multi-Agent Simulation for Smart Cities a generative AI project using agentic frameworks like AutoGen or CrewAI to manage traffic, pollution, emergencies, and more.](https://iem-summer-internship-aymvob2yhbn8ad8mthgxnm.streamlit.app/)
 
-- 👨‍💻 𝔸𝕝𝕝 𝕠𝕗 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕒𝕣𝕖 𝕒𝕧𝕒𝕚𝕝𝕒𝕓𝕝𝕖 𝕒𝕥👉 🌐𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 [https://srijanroy12.github.io/Srijan_portfolio/](https://srijanroy12.github.io/Srijan_portfolio/)
+- 👨‍💻 𝔸𝕝𝕝 𝕠𝕗 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔�𝕤 𝕒𝕣𝕖 𝕒𝕧𝕒𝕚𝕝𝕒𝕓𝕝𝕖 �𝕥👉 🌐𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 [https://srijanroy12.github.io/Srijan_portfolio/](https://srijanroy12.github.io/Srijan_portfolio/)
 
 - 📝 𝕀 𝕣𝕖𝕘𝕦𝕝𝕒𝕣𝕝𝕪 𝕨𝕣𝕚𝕥𝕖 𝕒𝕣𝕥𝕚𝕔𝕝𝕖𝕤 𝕠𝕟 ✍️𝕃𝕚𝕟𝕜𝕕𝕝𝕟 [https://www.linkedin.com/in/srijan-roy-iemians/](https://www.linkedin.com/in/srijan-roy-iemians/)
 
@@ -174,10 +221,7 @@
 </a>
 </p>
 
-
-
 <hr>
 <p align="center" style="font-family:monospace; font-size:16px;">
   ⚡Crafted with Code 👨‍💻,🚀Fueled by Innovation🧠— <strong>Srijan Roy</strong> | CSE @ IEM Kolkata 📍
 </p>
-
