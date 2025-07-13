@@ -63,6 +63,59 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijanroy12&theme=react-dark&area=true&hide_border=true&custom_title=Srijan's%20Commit%20Graph🚀" alt="GitHub Activity Graph" />
 </p>
 
+<!-- 🚀 Typing Title for Contribution Section -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=600&lines=🌟+Srijan's+Contribution+Graph+🌟" alt="Srijan's Contribution Graph Typing Animation" />
+</h3>
+
+<!-- 💚 Glowing GitHub Contribution Heatmap -->
+<div align="center" style="
+  background-color: #0d1117;
+  padding: 20px;
+  border-radius: 15px;
+  border: 2px solid #00ff00;
+  box-shadow: 0 0 20px #00ff00;
+  max-width: 800px;
+  margin: 0 auto;
+">
+  <!-- Subtitle -->
+  <p style="
+    font-family: monospace;
+    font-size: 18px;
+    color: #00FF00;
+    text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00;
+    margin-bottom: 10px;
+  ">
+    🟢 Track the grind — one square at a time!
+  </p>
+
+  <!-- GitHub Heatmap Chart -->
+  <img 
+    src="https://ghchart.rshah.org/FF00FF/SrijanRoy12" 
+    alt="Srijan Roy GitHub Contribution Chart" 
+    width="700"
+    style="
+      margin-top: 10px;
+      border-radius: 10px;
+      border: 1px solid #00FF00;
+      box-shadow: 0 0 10px #00FF00;
+    "
+  />
+
+  <!-- Legend/Quote -->
+  <p style="
+    margin-top: 10px;
+    font-size: 14px;
+    font-family: monospace;
+    color: #FF00FF;
+  ">
+    💡 Brighter the square, harder the hustle!
+  </p>
+</div>
+
+
+
+
 <!-- Top Contributed Repositories Section -->
 <h2 align="center">🌟 Srijan Roy's Top Contributed Repositories 🌟</h2>
 
