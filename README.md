@@ -1,6 +1,7 @@
-# 🧠 Welcome to the Digital Matrix of Srijan Roy! 💻
+## 🧠 Welcome to the Digital Matrix of Srijan Roy! 💻
 
-![Banner](https://github.com/SrijanRoy12/SrijanRoy12/raw/main/assets/ChatGPT%20Image%20Jul%2013%2C%202025%2C%2009_44_55%20PM.png)
+![Animated Banner](https://github.com/SrijanRoy12/SrijanRoy12/raw/main/VN20250713_221346.gif)
+
 
 
 
