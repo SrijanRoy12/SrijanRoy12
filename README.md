@@ -166,7 +166,7 @@
 - 📫 Reach me at: roysrijan53@gmail.com or srijan.Roy2022@iem.edu.in
 - 📫 Reach me at: https://www.linkedin.com/in/srijan-roy-iemians/
 - 🌐 My Portfolio: https://srijanroy12.github.io/Srijan_portfolio/ 
-- 📄 Check out my résumé: <a href="https://drive.google.com/file/d/1QCvc4H-b7-krTi8PsxhGMQ9FoXYm4TjW/view?usp=sharing">View Resume</a>
+- 📄 Check out my résumé: <a href="https://drive.google.com/file/d/1kIrOKtemB3YRVz9KF0G9xav509Zihq8G/view?usp=drive_link">View Resume</a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
