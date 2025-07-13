@@ -162,6 +162,7 @@
 - 🔭 Currently focused on placement prep and upskilling through projects and Internships
 - 🎨 A creative at heart — I draw to relax, cook to unwind, and code to build!
 - ☕ Fun fact: Caffeine runs in my veins — especially during Streamlit app marathons 😄
+- 📱 My Instagram Handle - https://www.instagram.com/its_ur_roy123/
 - 📫 Reach me at: roysrijan53@gmail.com or srijan.Roy2022@iem.edu.in
 - 📫 Reach me at: https://www.linkedin.com/in/srijan-roy-iemians/
 - 🌐 My Portfolio: https://srijanroy12.github.io/Srijan_portfolio/ 
