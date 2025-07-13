@@ -130,6 +130,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijanroy12" alt="srijanroy12" /></a> </p>
 
 - 🔭 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟👉 [Weather Pulse Pro– an interactive weather forecasting web app with real-time data, animations, and future predictions.](https://srijanroy12.github.io/Weather-Forecasting-App/)
+- 🔭 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟 👉 [MY Personal Music Player App- 🎵 A sleek Spotify-style music player built with Python, Streamlit & Pygame — features playlist creation, favorites, search, themes, and more. 🚧 Deployment in progress!.](https://github.com/SrijanRoy12/Srijan-s-Music-Player-App)
 
 - 🌱 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 **- 🤖 Artificial Intelligence & Machine Learning - 🧠 Natural Language Processing (NER, Sentiment Analysis, LLMs) - 🧮 Data Science & Model Deployment - 🖥️ Frontend Development (React.js, Streamlit, basic UI/UX) - ⚙️ Generative AI Tools (AutoGen, CrewAI)**
 
