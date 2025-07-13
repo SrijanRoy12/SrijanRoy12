@@ -1,7 +1,7 @@
 ## 🧠 Welcome to the Digital Matrix of Srijan Roy! 💻
 
 <p align="center">
-  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/VN20250713_221346.gif" alt="Animated Banner" width="800" height="400">
+  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/srijan%20roy%20image%20video%20gif.gif" alt="Animated Banner" width="800" height="400">
 </p>
 
 
