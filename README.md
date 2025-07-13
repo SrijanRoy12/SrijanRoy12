@@ -1,7 +1,15 @@
-## 🧠 Welcome to the Digital Matrix of Srijan Roy! 💻
+<h2 align="center">🧠 Welcome to the Digital Matrix of Srijan Roy! 💻</h2>
 
 <p align="center">
   <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/srijan%20roy%20image%20video%20gif.gif" alt="Animated Banner" width="800" height="400">
+</p>
+
+<p align="center">
+  <em>
+    "Initializing core protocols...<br>
+    Access granted to the neural domain of <strong>Srijan Roy</strong>.<br>
+    Decoding creativity, logic, and caffeine at 10,000 lines/sec... ☕👨‍💻"
+  </em>
 </p>
 
 
