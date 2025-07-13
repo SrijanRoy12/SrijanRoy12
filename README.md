@@ -171,7 +171,7 @@
 </p>
 
 <h1 align="center"𝓗𝓲 👋, 𝓘'𝓶 𝓢𝓻𝓲𝓳𝓪𝓷 𝓡𝓸𝔂</h1>
-<h3 align="center"><strong>𝓐 𝓹𝓪�𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓪𝓷𝓭 𝓐𝓘-𝓜� 𝓔𝓷𝓽𝓱𝓾𝓼𝓲𝓪𝓼𝓽 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪 🇮🇳</strong></h3>
+<h3 align="center"><strong> 𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 & 𝘼𝙄/𝙈𝙇 𝙀𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 𝙛𝙧𝙤𝙢 𝙄𝙣𝙙𝙞𝙖  </strong></h3>
 
 <div align="center">
   <span style="display: inline-block; padding: 12px 25px; border: 2px solid #00FF00; border-radius: 10px; background-color: #000000; font-size: 20px; font-weight: bold; font-family: 'Courier New', Courier, monospace; color: #00FF00; text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 20px #00FF00;">
