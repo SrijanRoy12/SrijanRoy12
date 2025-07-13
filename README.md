@@ -1,5 +1,4 @@
-<h2 align="center">🧠 Welcome to the Digital Matrix of Srijan Roy! 💻</h2>
-
+# 🪐🧠 Welcome to the Galactic Domain and Digital Matrix of Anubhav Chaturvedi! 👾💻
 <p align="center">
   <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/srijan%20roy%20image%20video%20gif.gif" alt="Animated Banner" width="800" height="400">
 </p>
