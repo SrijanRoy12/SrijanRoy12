@@ -21,7 +21,7 @@
           color: #00FF00;
           text-shadow: 0 0 8px #00FF00;
           letter-spacing: 1px;
-        ">𝙔𝙊𝙐 𝘼𝙍𝙀 𝙑𝙄𝙎𝙄𝙏𝙊𝙍</strong>
+        ">👋 WELCOME, YOU ARE VISITOR</strong>
       </td>
       <td style="vertical-align: middle;">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=srijanroy12.visitor-badge&color=%2300FF00&style=for-the-badge" 
@@ -41,10 +41,11 @@
   </table>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/hire_backends.png" alt="Left Developer" width="250"/>
-  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/developer.avif" alt="Right Developer" width="250"/>
-  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/developer 2.jpg" alt="Right Developer" width="250"/>
+<!-- Developer Images Section -->
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/hire_backends.png" alt="Left Developer" width="250" style="border-radius: 12px; box-shadow: 0 0 8px #00FF00;"/>
+  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/developer.avif" alt="Middle Developer" width="250" style="border-radius: 12px; box-shadow: 0 0 8px #00FF00;"/>
+  <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/developer%202.jpg" alt="Right Developer" width="250" style="border-radius: 12px; box-shadow: 0 0 8px #00FF00;"/>
 </div>
 
 <!-- Personal Message -->
