@@ -15,7 +15,9 @@
 
 
 
-
+<p align="center">
+  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/ezgif-6-3bc86437ad-unscreen.gif" alt="Developer at work" width="200">
+</p>
 
 
 
