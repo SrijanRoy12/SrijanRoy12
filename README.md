@@ -58,7 +58,7 @@
              " />
       </td>
       <td style="vertical-align: middle;">
-        <img src="https://i.pinimg.com/originals/67/53/f1/6753f15d6979f1459e888f6d9a3e8d65.gif" 
+        <img src="https://github.com/SrijanRoy12/SrijanRoy12/blob/main/tech%20startup.gif" 
              width="180" 
              height="135"
              style="border-radius: 10px; border: 2px solid #00FF00;" />
