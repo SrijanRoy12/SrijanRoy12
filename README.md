@@ -314,6 +314,4 @@
   ⚡Crafted with Code 👨‍💻,🚀Fueled by Innovation🧠— <strong>Srijan Roy</strong> | CSE @ IEM Kolkata 📍
 </p>
 
-<p align="center">
-  <img src="https://github.com/SrijanRoy12/SrijanRoy12/blob/main/Check%20Animation.mp4.gif" alt="Loading Animation" width="300">
-</p>
+
