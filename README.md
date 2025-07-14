@@ -242,10 +242,11 @@
 
 
 <p align="center">
-  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/Check%20Animation.mp4.gif" alt="Check Animation" width="250" />
-  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/Startup.gif" alt="Startup Animation" width="250" />
-  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/developer%20skills.gif" alt="Developer Skills" width="250" />
+  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/tech%20startup.gif" alt="Tech Startup" width="260" height="180" />
+  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/Startup.gif" alt="Startup Animation" width="260" height="180" />
+  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/developer%20skills.gif" alt="Developer Skills" width="260" height="180" />
 </p>
+
 
 
 
@@ -313,3 +314,6 @@
   ⚡Crafted with Code 👨‍💻,🚀Fueled by Innovation🧠— <strong>Srijan Roy</strong> | CSE @ IEM Kolkata 📍
 </p>
 
+<p align="center">
+  <img src="https://github.com/SrijanRoy12/SrijanRoy12/blob/main/Check%20Animation.mp4.gif" alt="Loading Animation" width="300">
+</p>
