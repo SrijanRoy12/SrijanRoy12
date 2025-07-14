@@ -74,6 +74,13 @@
   <img src="https://raw.githubusercontent.com/SrijanRoy12/SrijanRoy12/main/assets/developer%202.jpg" alt="Right Developer" width="250" style="border-radius: 12px; box-shadow: 0 0 8px #00FF00;"/>
 </div>
 
+<p align="center">
+  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/Material%20wave%20loading.gif" alt="Loading Animation" width="300">
+</p>
+
+
+
+
 <!-- Personal Message -->
 <p align="center"><em>𝙎𝙩𝙧𝙞𝙫𝙞𝙣𝙜 𝙩𝙤 𝙗𝙚𝙘𝙤𝙢𝙚 𝙩𝙝𝙚 𝙗𝙚𝙨𝙩 𝙫𝙚𝙧𝙨𝙞𝙤𝙣 𝙤𝙛 𝙢𝙮𝙨𝙚𝙡𝙛 💫</em></p>
 
@@ -233,6 +240,24 @@
 
 - ⚡𝓕𝓾𝓷 𝓯𝓪𝓬𝓽 : **I love building smart tools that "think," and I treat my AI agents like teammates 🤖😄**
 
+
+<p align="center">
+  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/Check%20Animation.mp4.gif" alt="Check Animation" width="250" />
+  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/Startup.gif" alt="Startup Animation" width="250" />
+  <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/developer%20skills.gif" alt="Developer Skills" width="250" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="left"><strong>𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝖒𝖊 </strong>:</h3>
 <p align="left">
 <a href="https://twitter.com/@srijanroy_iem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@srijanroy_iem" height="30" width="40" /></a>
@@ -287,3 +312,4 @@
 <p align="center" style="font-family:monospace; font-size:16px;">
   ⚡Crafted with Code 👨‍💻,🚀Fueled by Innovation🧠— <strong>Srijan Roy</strong> | CSE @ IEM Kolkata 📍
 </p>
+
