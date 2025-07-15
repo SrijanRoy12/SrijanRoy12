@@ -223,6 +223,7 @@
 - 🌱 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 **- 🤖 Artificial Intelligence & Machine Learning - 🧠 Natural Language Processing (NER, Sentiment Analysis, LLMs) - 🧮 Data Science & Model Deployment - 🖥️ Frontend Development (React.js, Streamlit, basic UI/UX) - ⚙️ Generative AI Tools (AutoGen, CrewAI)**
 
 - 👯 𝕀'𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 [AI- Powered Translator App– breaking language barriers using real-time speech/text translation powered by machine learning.](https://github.com/SrijanRoy12/AI-powered-Translator-App)
+- - 👯 𝕀'𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 [Ultimate Zombie Game is a 2D top-down survival shooter where players battle endless waves of zombies using strategy, speed, and firepower.(https://github.com/SrijanRoy12/Ultimate-Zombie-Game--Srijan-Roy)
 -  👨‍💻 𝕀'𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 -🧠 AI-Powered Diabetes Predictor — enabling early detection through real-time medical risk assessment using machine learning.([https://diabetes-prediction-api-jjtssqxzz9unwzzy974y9c.streamlit.app/])
 -  👨‍💻 𝕀'𝕞 𝕝�𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 -🔬 AI-Powered Breast Cancer Detection App – accelerating early diagnosis using real-time analysis of medical data, powered by machine learning.([https://breast-cancer-detection-api-jdb5xa33cjknmuvswsjrqg.streamlit.app/])
 
