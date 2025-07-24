@@ -229,7 +229,7 @@
 
 - 🤝 𝕀'𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕗𝕠𝕣 𝕙𝕖𝕝𝕡 𝕨𝕚𝕥𝕙 [Multi-Agent Simulation for Smart Cities a generative AI project using agentic frameworks like AutoGen or CrewAI to manage traffic, pollution, emergencies, and more.](https://iem-summer-internship-aymvob2yhbn8ad8mthgxnm.streamlit.app/)
 
-- 👨‍💻 𝔸𝕝𝕝 𝕠𝕗 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔�𝕤 𝕒𝕣𝕖 𝕒𝕧𝕒𝕚𝕝𝕒𝕓𝕝𝕖 �𝕥👉 🌐𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 [https://srijanroy12.github.io/Srijan_portfolio/](https://srijanroy12.github.io/Srijan_portfolio/)
+- 👨‍💻 𝔸𝕝𝕝 𝕠𝕗 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔t𝕤 𝕒𝕣𝕖 𝕒𝕧𝕒𝕚𝕝𝕒𝕓𝕝𝕖 �𝕥👉 🌐𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 [https://srijanroy12.github.io/Srijan_portfolio/](https://srijanroy12.github.io/Srijan_portfolio/)
 
 - 📝 𝕀 𝕣𝕖𝕘𝕦𝕝𝕒𝕣𝕝𝕪 𝕨𝕣𝕚𝕥𝕖 𝕒𝕣𝕥𝕚𝕔𝕝𝕖𝕤 𝕠𝕟 ✍️𝕃𝕚𝕟𝕜𝕕𝕝𝕟 [https://www.linkedin.com/in/srijan-roy-iemians/](https://www.linkedin.com/in/srijan-roy-iemians/)
 
