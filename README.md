@@ -11,17 +11,9 @@
   </em>
 </p>
 
-
-
-
-
 <p align="center">
   <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/ezgif-6-3bc86437ad-unscreen.gif" alt="Developer at work" width="200">
 </p>
-
-
-
-
 
 
 <!-- Typing Animation -->
@@ -186,6 +178,11 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+    <a href="https://trendshift.io/repositories/124"  target="_blank"><img src="https://trendshift.io/api/badge/repositories/124" alt="roboflow%2Fsupervision | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+  </div>
+  
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more "INFO" about me...</h2>
 
