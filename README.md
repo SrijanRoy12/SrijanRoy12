@@ -1,3 +1,8 @@
+<div align="center">
+    <a href="https://trendshift.io/repositories/124"  target="_blank"><img src="https://trendshift.io/api/badge/repositories/124" alt="roboflow%2Fsupervision | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+  </div>
+  
+
 # 🪐🧠 Welcome to the Galactic Domain and Digital Matrix of Srijan Roy! 👾💻
 <p align="center">
   <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/srijan%20roy%20image%20video%20gif.gif" alt="Animated Banner" width="800" height="400">
@@ -178,11 +183,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-    <a href="https://trendshift.io/repositories/124"  target="_blank"><img src="https://trendshift.io/api/badge/repositories/124" alt="roboflow%2Fsupervision | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-  </div>
-  
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more "INFO" about me...</h2>
 
