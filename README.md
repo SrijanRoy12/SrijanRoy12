@@ -1,9 +1,15 @@
 <div align="center">
     <a href="https://trendshift.io/repositories/124"  target="_blank"><img src="https://trendshift.io/api/badge/repositories/124" alt="roboflow%2Fsupervision | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
   </div>
-  
 
-# 🪐🧠 Welcome to the Galactic Domain and Digital Matrix of Srijan Roy! 👾💻
+
+<!-- Typing animation--->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Srijan+Roy;AI-ML+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A+%26+Backend+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Learning+%F0%9F%93%9A%2C+Exploring+%F0%9F%94%8E%2C+Building+%F0%9F%9B%A0%EF%B8%8F;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing animation" />
+</h1>
+
+
+# 🪐🧠 Welcome to the Galactic Domain and Digital Matrix of Srijan! 👾💻
 <p align="center">
   <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/srijan%20roy%20image%20video%20gif.gif" alt="Animated Banner" width="800" height="400">
 </p>
@@ -19,12 +25,6 @@
 <p align="center">
   <img src="https://github.com/SrijanRoy12/SrijanRoy12/raw/main/ezgif-6-3bc86437ad-unscreen.gif" alt="Developer at work" width="200">
 </p>
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Srijan+Roy;AI-ML+Enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Frontend+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;Backend+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Learning+%F0%9F%93%9A%2C+Exploring+%F0%9F%94%8E%2C+Building+%F0%9F%9B%A0%EF%B8%8F;Let's+Build+Something+Amazing+Together+%F0%9F%9A%80" alt="Typing animation" />
-</h1>
-
 
 <!-- Glowing Name -->
 <h2 align="center">
