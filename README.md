@@ -318,6 +318,10 @@
 <a href="https://www.kaggle.com/srijaniem2024" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
 </a>
+<a href="mailto:roysrijan53@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
 </p>
 
 <hr>
