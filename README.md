@@ -96,15 +96,18 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original.svg" alt="jupyter" width="48" height="48"/>
+</div>
 
 
 
@@ -325,6 +328,25 @@
 </p>
 
 <hr>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=thanks+for+stalking+my+profile;let's+build+cool+stuff+together;currently+accepting+coffee+donations;may+the+code+be+with+you" alt="Footer Typing SVG" />
+</div>
+
+<div align="center">
+  <i>⚡ fueled by caffeine, powered by curiosity, driven by the need to fix things</i>
+</div>
+
+<div align="center">
+  <i>🚀 from your friendly neighborhood developer - let's make the internet a little less broken</i>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ariktheone/ariktheone/main/github-contribution-grid-snake.svg" />
+</div>
+
+
 <p align="center" style="font-family:monospace; font-size:16px;">
   ⚡Crafted with Code 👨‍💻,🚀Fueled by Innovation🧠— <strong>Srijan Roy</strong> | CSE @ IEM Kolkata 📍
 </p>
