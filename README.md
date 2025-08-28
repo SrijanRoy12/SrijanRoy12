@@ -304,3 +304,7 @@
 <p align="center" style="font-family:monospace; font-size:16px;">
   ⚡Crafted with Code 👨‍💻,🚀Fueled by Innovation🧠— <strong>Srijan Roy</strong> | CSE @ IEM Kolkata 📍
 </p>
+
+<p align="center" style="font-family:monospace; font-size:16px;">
+  ################# All Rights Reserved ##################
+</p>
