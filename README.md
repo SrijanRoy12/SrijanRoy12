@@ -170,19 +170,259 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SrijanRoy12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟👉 [Weather Pulse Pro– an interactive weather forecasting web app with real-time data, animations, and future predictions.](https://srijanroy12.github.io/Weather-Forecasting-App/)
-- 🔭 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟 👉 [MY Personal Music Player App- 🎵 A sleek Spotify-style music player built with Python, Streamlit & Pygame — features playlist creation, favorites, search, themes, and more. 🚧 Deployment in progress!.](https://github.com/SrijanRoy12/Srijan-s-Music-Player-App)
+## 🚀✨ 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙙 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 
-- 🌱 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 **- 🤖 Artificial Intelligence & Machine Learning - 🧠 Natural Language Processing (NER, Sentiment Analysis, LLMs) - 🧮 Data Science & Model Deployment - 🖥️ Frontend Development (React.js, Streamlit, basic UI/UX) - ⚙️ Generative AI Tools (AutoGen, CrewAI)**
+<table>
+<tr>
+<td width="50%">
 
-- 👯 𝕀'𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 [AI- Powered Translator App– breaking language barriers using real-time speech/text translation powered by machine learning.](https://github.com/SrijanRoy12/AI-powered-Translator-App)
-- 👯 𝕀'𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 [Ultimate Zombie Game is a 2D top-down survival shooter where players battle endless waves of zombies using strategy, speed, and firepower.(https://github.com/SrijanRoy12/Ultimate-Zombie-Game--Srijan-Roy)
--  👨‍💻 𝕀'𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 -🧠 AI-Powered Diabetes Predictor — enabling early detection through real-time medical risk assessment using machine learning.([https://diabetes-prediction-api-jjtssqxzz9unwzzy974y9c.streamlit.app/])
--  👨‍💻 𝕀'𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕥𝕠 𝕔𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕖 𝕠𝕟 -🔬 AI-Powered Breast Cancer Detection App – accelerating early diagnosis using real-time analysis of medical data, powered by machine learning.([https://breast-cancer-detection-api-jdb5xa33cjknmuvswsjrqg.streamlit.app/])
+### 📈 StockFlow
+**AI-Powered Real-Time Stock Intelligence**
 
-- 🤝 𝕀'𝕞 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕗𝕠𝕣 𝕙𝕖𝕝𝕡 𝕨𝕚𝕥𝕙 [Multi-Agent Simulation for Smart Cities a generative AI project using agentic frameworks like AutoGen or CrewAI to manage traffic, pollution, emergencies, and more.](https://iem-summer-internship-aymvob2yhbn8ad8mthgxnm.streamlit.app/)
+A modern stock-market intelligence platform combining real-time market data, interactive analytics, portfolio tracking and AI-powered trading insights.
 
-- 👨‍💻 𝔸𝕝𝕝 𝕠𝕗 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔t𝕤 𝕒𝕣𝕖 𝕒𝕧𝕒𝕚𝕝𝕒𝕓𝕝𝕖  𝕥👉 🌐𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 [https://srijanroy12.github.io/Srijan_portfolio/](https://srijanroy12.github.io/Srijan_portfolio/)
+**⚡ Highlights**
+- 📊 Real-time stock monitoring
+- 📈 Interactive historical & projected charts
+- 🤖 AI Buy / Sell / Hold signals
+- 📐 RSI, MACD, SMA, EMA, VWAP & Bollinger Bands
+- 💼 Portfolio & P&L tracking
+- 🗓️ Earnings calendar
+- 🌎 US + Indian market coverage
+
+**🛠️ React • Tailwind • Node.js • WebSockets • ML**
+
+🔗 [💻 Source Code](https://github.com/SrijanRoy12/Stock-Market-Analysis-Dashboard)  
+🚀 [🌐 Live Demo](https://elaborate-lokum-a4c018.netlify.app/)
+
+</td>
+
+<td width="50%">
+
+### 🧠 Medical Text Classification
+**Intelligent Clinical NLP System**
+
+An AI-powered NLP system designed to automatically analyze and classify medical and biomedical text using machine learning and deep learning techniques.
+
+**⚡ Highlights**
+- 🩺 Medical text analysis
+- 🧠 NLP-based classification
+- 🤖 ML / Deep Learning models
+- 📚 Biomedical text processing
+- 📊 Prediction & classification pipeline
+
+**🛠️ Python • NLP • Machine Learning • Deep Learning**
+
+🔗 [💻 Explore Project](https://github.com/SrijanRoy12/Medical-Text-Classification-System)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Multi-Agent Smart City
+**AI Agents for Intelligent Urban Management**
+
+A Generative AI project that explores how autonomous AI agents can collaborate to manage complex smart-city scenarios.
+
+**⚡ Highlights**
+- 🚦 Intelligent traffic management
+- 🌫️ Pollution monitoring
+- 🚨 Emergency coordination
+- 🤝 Multi-agent collaboration
+- 🧠 Autonomous decision making
+- ⚙️ Agentic AI workflows
+
+**🛠️ Python • Generative AI • AutoGen • CrewAI**
+
+🔗 [🌐 Live Project](https://iem-summer-internship-aymvob2yhbn8ad8mthgxnm.streamlit.app/)
+
+</td>
+
+<td width="50%">
+
+### 🌍 AI-Powered Translator
+**Breaking Language Barriers with AI**
+
+A machine-learning powered translation platform designed to enable real-time communication through text and speech translation.
+
+**⚡ Highlights**
+- 🌐 Multi-language translation
+- 🎙️ Speech-based interaction
+- 📝 Real-time text translation
+- 🤖 Machine Learning integration
+- ⚡ Interactive user experience
+
+**🛠️ Python • ML • NLP • Streamlit**
+
+🔗 [💻 Explore Project](https://github.com/SrijanRoy12/AI-powered-Translator-App)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🩺 AI Diabetes Predictor
+**Machine Learning Healthcare Assistant**
+
+An ML-powered application that performs real-time diabetes risk prediction and presents the result through an interactive interface.
+
+**⚡ Highlights**
+- 🧠 Predictive ML model
+- 🩺 Healthcare risk assessment
+- 📊 Real-time prediction
+- 🎨 Interactive UI
+- 🚀 Deployed web application
+
+**🛠️ Python • Scikit-learn • Streamlit • ML**
+
+🔗 [🌐 Try Live App](https://diabetes-prediction-api-jjtssqxzz9unwzzy974y9c.streamlit.app/)
+
+</td>
+
+<td width="50%">
+
+### 🔬 AI Breast Cancer Detection
+**Machine Learning for Early Detection**
+
+A machine-learning application designed to analyze medical data and assist with breast-cancer classification.
+
+**⚡ Highlights**
+- 🔬 Medical data analysis
+- 🧠 ML classification
+- 📊 Real-time predictions
+- 🩺 Healthcare-focused AI
+- 🌐 Interactive web interface
+
+**🛠️ Python • Machine Learning • Streamlit**
+
+🔗 [🌐 Try Live App](https://breast-cancer-detection-api-jdb5xa33cjknmuvswsjrqg.streamlit.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎵 Srijan's Music Player
+**Spotify-Inspired Desktop Music Experience**
+
+A feature-rich music player built with Python and Streamlit, designed around playlists, favorites and personalized music interaction.
+
+**⚡ Highlights**
+- 🎵 Playlist creation
+- ❤️ Favorites
+- 🔎 Music search
+- 🎨 Multiple themes
+- ▶️ Audio playback
+- 🖥️ Interactive interface
+
+**🛠️ Python • Streamlit • Pygame**
+
+🔗 [💻 Source Code](https://github.com/SrijanRoy12/Srijan-s-Music-Player-App)
+
+</td>
+
+<td width="50%">
+
+### 🌦️ Weather Pulse Pro
+**Real-Time Weather Intelligence Dashboard**
+
+An interactive weather platform providing real-time weather information, forecasts, animations and future predictions.
+
+**⚡ Highlights**
+- 🌤️ Real-time weather data
+- 🔮 Future forecasts
+- 📍 Location-based weather
+- ✨ Animated interface
+- 📊 Weather visualization
+- 📱 Responsive UI
+
+**🛠️ HTML • CSS • JavaScript • Weather APIs**
+
+🔗 [🌐 Live Demo](https://srijanroy12.github.io/Weather-Forecasting-App/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💳 Credit Scoring Model
+**AI-Powered Financial Risk Assessment**
+
+A machine-learning system designed to evaluate creditworthiness and predict financial risk using historical customer data.
+
+**⚡ Highlights**
+- 💰 Credit-risk prediction
+- 📊 Financial data analysis
+- 🧠 Machine-learning model
+- 📈 Predictive analytics
+- 🎯 Risk classification
+
+**🛠️ Python • Pandas • Scikit-learn • ML**
+
+🔗 [💻 Explore Project](https://github.com/SrijanRoy12/Credit-Scoring-Model-)
+
+</td>
+
+<td width="50%">
+
+### 🛡️ Website Safety Intelligence
+**Automated Website Risk Analyzer**
+
+A security-focused application that evaluates websites and generates an intuitive safety classification and score.
+
+**⚡ Highlights**
+- 🔐 Website safety analysis
+- 📊 Safety scoring
+- 🚨 Risk classification
+- 🌐 URL analysis
+- 🤖 Automated evaluation
+
+**🛠️ Python • Web Analysis • Data Processing**
+
+🔗 [💻 Explore Project](https://github.com/SrijanRoy12/website-safety-checking.py)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 𝙈𝙤𝙧𝙚 𝙒𝙤𝙧𝙠
+
+🔹 🍽️ [Cafe Management System](https://github.com/SrijanRoy12/Cafe-Managment-System-)  
+🔹 🧟 [Ultimate Zombie Game](https://github.com/SrijanRoy12/Ultimate-Zombie-Game--Srijan-Roy)  
+🔹 🕷️ [Web Scraping with ML & Python](https://github.com/SrijanRoy12/web_scraping-using-ML-and-Python)  
+🔹 🌐 [The Path to Parity – Gender Equality Platform](https://github.com/SrijanRoy12/Genderequality)  
+🔹 📄 [SmartDocs – Document Converter](https://github.com/SrijanRoy12/Docs-Converter-)  
+🔹 🧮 [Computer Science Projects](https://github.com/SrijanRoy12/Computer-Project)
+
+---
+
+### 💡 𝙒𝙝𝙖𝙩 𝙄 𝙡𝙤𝙫𝙚 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜
+
+> 🤖 Intelligent AI Systems  
+> 📊 Data-Driven Applications  
+> 🧠 NLP & Generative AI Solutions  
+> ⚡ Real-Time Interactive Platforms  
+> 🌐 Full-Stack Applications  
+> 🩺 AI for Healthcare  
+> 📈 AI for Financial Intelligence  
+> 🚀 Technology with Real-World Impact
+
+---
+
+<p align="center">
+
+### 🚀 𝘽𝙪𝙞𝙡𝙙𝙞𝙣𝙜 • 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 • 𝙄𝙣𝙣𝙤𝙫𝙖𝙩𝙞𝙣𝙜
+
+<i>Turning ideas into intelligent, impactful and beautiful software.</i> 💡
+
+</p>
 
 - 💬𝔸𝕤𝕜 𝕞𝕖 𝕒𝕓𝕠𝕦𝕥 **𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜`, `𝙉𝙇𝙋`, `𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙞𝙫𝙚 𝘼𝙄`, `𝙈𝙤𝙙𝙚𝙡 𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩`, 𝙖𝙣𝙙 𝙗𝙚𝙜𝙞𝙣𝙣𝙚𝙧-𝙡𝙚𝙫𝙚𝙡 `𝙍𝙚𝙖𝙘𝙩` 𝙤𝙧 `𝙎𝙩𝙧𝙚𝙖𝙢𝙡𝙞𝙩`**
 
