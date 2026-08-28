@@ -153,13 +153,23 @@
   />
 </p>
 
+
+<!-- GitHub Activity Graph -->
+<h3 align="center">
+  <strong>🚀📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲</strong>
+</h3>
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=srijanroy12&theme=react-dark&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=srijanroy12&theme=react-dark&area=true&hide_border=true&custom_title=Srijan%27s%20Commit%20Graph%20%F0%9F%9A%80"
+    alt="Srijan's GitHub Activity Graph"
     width="95%"
   />
 </p>
+
+
+
+
 
 
 
