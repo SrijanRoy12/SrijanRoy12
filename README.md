@@ -156,7 +156,7 @@
 - 🎨 A creative at heart — I draw to relax, cook to unwind, and code to build!
 - ☕ Fun fact: Caffeine runs in my veins — especially during Streamlit app marathons 😄
 - 📱 My Instagram Handle - https://www.instagram.com/its_ur_roy123/
-- 📫 Reach me at: roysrijan53@gmail.com or srijan.Roy2022@iem.edu.in
+- 📫 Reach me at: roysrijan53@gmail.com or srijan.Roy2022@iem.edu.in or Srijan.Roy@itcinfotech.com
 - 📫 Reach me at: https://www.linkedin.com/in/srijan-roy-iemians/
 - 🌐 My Portfolio: https://srijanroy12.github.io/Srijan_portfolio/ 
 - 📄 Check out my résumé: <a href="https://drive.google.com/file/d/1kIrOKtemB3YRVz9KF0G9xav509Zihq8G/view?usp=drive_link">View Resume</a>
