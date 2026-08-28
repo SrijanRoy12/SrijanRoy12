@@ -184,13 +184,7 @@
 
 - 👨‍💻 𝔸𝕝𝕝 𝕠𝕗 𝕞𝕪 𝕡𝕣𝕠𝕛𝕖𝕔t𝕤 𝕒𝕣𝕖 𝕒𝕧𝕒𝕚𝕝𝕒𝕓𝕝𝕖  𝕥👉 🌐𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 [https://srijanroy12.github.io/Srijan_portfolio/](https://srijanroy12.github.io/Srijan_portfolio/)
 
-- 📝 𝕀 𝕣𝕖𝕘𝕦𝕝𝕒𝕣𝕝𝕪 𝕨𝕣𝕚𝕥𝕖 𝕒𝕣𝕥𝕚𝕔𝕝𝕖𝕤 𝕠𝕟 ✍️𝕃𝕚𝕟𝕜𝕕𝕝𝕟 [https://www.linkedin.com/in/srijan-roy-iemians/](https://www.linkedin.com/in/srijan-roy-iemians/)
-
 - 💬𝔸𝕤𝕜 𝕞𝕖 𝕒𝕓𝕠𝕦𝕥 **𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜`, `𝙉𝙇𝙋`, `𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙞𝙫𝙚 𝘼𝙄`, `𝙈𝙤𝙙𝙚𝙡 𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩`, 𝙖𝙣𝙙 𝙗𝙚𝙜𝙞𝙣𝙣𝙚𝙧-𝙡𝙚𝙫𝙚𝙡 `𝙍𝙚𝙖𝙘𝙩` 𝙤𝙧 `𝙎𝙩𝙧𝙚𝙖𝙢𝙡𝙞𝙩`**
-
-- 📫 How to reach me 👉**roysrijan53@gmail.com**
-
-- 📄 𝙆𝙣𝙤𝙬 𝙖𝙗𝙤𝙪𝙩 𝙢𝙮 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨. 𝙑𝙞𝙨𝙞𝙩 𝙢𝙮 📁𝙍𝙚𝙨𝙪𝙢𝙚 [https://drive.google.com/file/d/1kIrOKtemB3YRVz9KF0G9xav509Zihq8G/view?usp=sharing](https://drive.google.com/file/d/1kIrOKtemB3YRVz9KF0G9xav509Zihq8G/view?usp=sharing)
 
 - ⚡𝓕𝓾𝓷 𝓯𝓪𝓬𝓽 : **I love building smart tools that "think," and I treat my AI agents like teammates 🤖😄**
 
