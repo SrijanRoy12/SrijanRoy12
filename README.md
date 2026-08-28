@@ -140,6 +140,7 @@
 </p>
 
 
+
 <!-- GitHub Activity Graph -->
 <h3 align="center">
   <strong>🚀📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲</strong>
@@ -147,11 +148,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph-one-eta.vercel.app/?username=srijanroy12&bg_color=141321&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&area=true&hide_border=true&custom_title=Srijan%27s%20Commit%20Graph%20🚀"
-    alt="Srijan's GitHub Activity Graph"
+    src="https://github-readme-activity-graph-one-eta.vercel.app/graph?username=SrijanRoy12&theme=react-dark&hide_border=true&area=true"
+    alt="SrijanRoy12 GitHub Activity Graph"
     width="95%"
   />
 </p>
+
 
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more "INFO" about me...</h2>
