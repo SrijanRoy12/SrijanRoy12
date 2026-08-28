@@ -139,11 +139,21 @@
   <a href="https://open.spotify.com/"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg" alt="Spotify" /></a>
 </p>
 
-<!-- Colorful GitHub Activity Graph -->
-<h3 align="center"><strong>🚀📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲</strong></h3>
+
+<!-- GitHub Activity Graph -->
+<h3 align="center">
+  <strong>🚀📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲</strong>
+</h3>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijanroy12&theme=react-dark&area=true&hide_border=true&custom_title=Srijan's%20Commit%20Graph🚀" alt="GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=srijanroy12&bg_color=141321&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&area=true&hide_border=true&custom_title=Srijan%27s%20Commit%20Graph%20🚀"
+    alt="Srijan's GitHub Activity Graph"
+    width="95%"
+  />
 </p>
+
+
 
 
 
