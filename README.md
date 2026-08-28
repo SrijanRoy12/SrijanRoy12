@@ -147,22 +147,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=srijanroy12&bg_color=141321&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&area=true&hide_border=true&custom_title=Srijan%27s%20Commit%20Graph%20🚀"
-    alt="Srijan's GitHub Activity Graph"
-    width="95%"
-  />
-</p>
-
-
-
-<!-- GitHub Activity Graph -->
-<h3 align="center">
-  <strong>🚀📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲</strong>
-</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SrijanRoy12&theme=react-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph-one-eta.vercel.app/?username=srijanroy12&bg_color=141321&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&area=true&hide_border=true&custom_title=Srijan%27s%20Commit%20Graph%20🚀"
     alt="Srijan's GitHub Activity Graph"
     width="95%"
   />
@@ -180,7 +165,7 @@
 - 📱 My Instagram Handle - https://www.instagram.com/its_ur_roy123/
 - 📫 Reach me at: roysrijan53@gmail.com or srijan.Roy2022@iem.edu.in or Srijan.Roy@itcinfotech.com
 - 📫 Reach me at: https://www.linkedin.com/in/srijan-roy-iemians/
-- 🌐 My Portfolio: https://srijanroy12.github.io/Srijan_portfolio/ 
+- 🌐 My Portfolio: https://srijanroy12.github.io/RoyPortfolio.com/ 
 - 📄 Check out my résumé: <a href="https://drive.google.com/file/d/1kIrOKtemB3YRVz9KF0G9xav509Zihq8G/view?usp=drive_link">View Resume</a>
 
 <p align="center">
