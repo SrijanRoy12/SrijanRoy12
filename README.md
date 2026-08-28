@@ -139,23 +139,6 @@
   <a href="https://open.spotify.com/"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg" alt="Spotify" /></a>
 </p>
 
-
-
-<!-- GitHub Activity Graph -->
-<h3 align="center">
-  <strong>🚀📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲</strong>
-</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph-one-eta.vercel.app/graph?username=SrijanRoy12&theme=react-dark&hide_border=true&area=true"
-    alt="SrijanRoy12 GitHub Activity Graph"
-    width="95%"
-  />
-</p>
-
-
-
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more "INFO" about me...</h2>
 
 - 🎓 Final year Computer Science undergraduate student,IEM
@@ -168,7 +151,7 @@
 - 📫 Reach me at: roysrijan53@gmail.com or srijan.Roy2022@iem.edu.in or Srijan.Roy@itcinfotech.com
 - 📫 Reach me at: https://www.linkedin.com/in/srijan-roy-iemians/
 - 🌐 My Portfolio: https://srijanroy12.github.io/RoyPortfolio.com/ 
-- 📄 Check out my résumé: <a href="https://drive.google.com/file/d/1kIrOKtemB3YRVz9KF0G9xav509Zihq8G/view?usp=drive_link">View Resume</a>
+- 📄 Check out my résumé: <a href="https://drive.google.com/file/d/1ZL3YS0dGy0wMr6EIkolAtXEqzhg92lIL/view?usp=sharing">View Resume</a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
