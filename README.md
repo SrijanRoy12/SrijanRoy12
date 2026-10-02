@@ -537,7 +537,7 @@ A security-focused application that evaluates websites and generates an intuitiv
 
 
 <p align="center" style="font-family:monospace; font-size:16px;">
-  ⚡Crafted with Code 👨‍💻,🚀Fueled by Innovation🧠— <strong>Srijan Roy</strong> | CSE @ IEM Kolkata & ASE @ ITC Infotech, BLR 📍✈️
+  ⚡Crafted with Code 👨‍💻,🚀Fueled by Innovation🧠— <strong>Srijan Roy</strong> | CSE @ IEM Kolkata  &  ASE @ ITC Infotech, BLR 📍✈️
 </p>
 
 <p align="center" style="font-family:monospace; font-size:16px;">
