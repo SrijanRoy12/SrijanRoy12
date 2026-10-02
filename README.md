@@ -151,7 +151,7 @@
 - 📫 Reach me at: roysrijan53@gmail.com or srijan.Roy2022@iem.edu.in or Srijan.Roy@itcinfotech.com
 - 📫 Reach me at: https://www.linkedin.com/in/srijan-roy-iemians/
 - 🌐 My Portfolio: https://srijanroy12.github.io/RoyPortfolio.com/ 
-- 📄 Check out my résumé: <a href="https://drive.google.com/file/d/1ZL3YS0dGy0wMr6EIkolAtXEqzhg92lIL/view?usp=sharing">View Resume</a>
+- 📄 Check out my résumé: <a href="https://drive.google.com/file/d/1-3FvbecGHKWmRfN5G-aqOuUMvkgO5SZa/view?usp=sharing">View Resume</a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
@@ -537,7 +537,7 @@ A security-focused application that evaluates websites and generates an intuitiv
 
 
 <p align="center" style="font-family:monospace; font-size:16px;">
-  ⚡Crafted with Code 👨‍💻,🚀Fueled by Innovation🧠— <strong>Srijan Roy</strong> | CSE @ IEM Kolkata 📍
+  ⚡Crafted with Code 👨‍💻,🚀Fueled by Innovation🧠— <strong>Srijan Roy</strong> | **CSE @ IEM Kolkata** & **ASE @ ITC Infotech, BLR**
 </p>
 
 <p align="center" style="font-family:monospace; font-size:16px;">
