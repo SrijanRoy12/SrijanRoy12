@@ -109,34 +109,49 @@
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SrijanRoy12&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SrijanRoy12&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrijanRoy12&theme=radical&hide_border=false" />
+      <img src="https://streak-stats.demolab.com?user=SrijanRoy12&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanRoy12&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanRoy12&theme=radical&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages" />
     </td>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=SrijanRoy12&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+    <td align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=SrijanRoy12&limit=5&theme=dark&combine_all_yearly_contributions=true" height="250" alt="Contribution Stats" />
       <br/><br/>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
     </td>
   </tr>
 </table>
 
+---
 
-<!-- Personal Message -->
-<p align="center"><em>𝙎𝙩𝙧𝙞𝙫𝙞𝙣𝙜 𝙩𝙤 𝙗𝙚𝙘𝙤𝙢𝙚 𝙩𝙝𝙚 𝙗𝙚𝙨𝙩 𝙫𝙚𝙧𝙨𝙞𝙤𝙣 𝙤𝙛 𝙢𝙮𝙨𝙚𝙡𝙛 💫</em></p>
+<p align="center">
+  <em>𝙎𝙩𝙧𝙞𝙫𝙞𝙣𝙜 𝙩𝙤 𝙗𝙚𝙘𝙤𝙢𝙚 𝙩𝙝𝙚 𝙗𝙚𝙨𝙩 𝙫𝙚𝙧𝙨𝙞𝙤𝙣 𝙤𝙛 𝙢𝙮𝙨𝙚𝙡𝙛 💫</em>
+</p>
 
 <!-- Social Icons -->
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/srijan-roy-iemians/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/its_ur_roy123/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg" alt="Instagram" /></a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg" alt="Spotify" /></a>
+  <a href="https://www.linkedin.com/in/srijan-roy-iemians/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/its_ur_roy123/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://open.spotify.com/">
+    <img src="https://cdn.simpleicons.org/spotify/1DB954" height="30" alt="Spotify"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:roysrijan53@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email"/>
+  </a>
 </p>
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more "INFO" about me...</h2>
