@@ -141,7 +141,8 @@
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more "INFO" about me...</h2>
 
-- 🎓 Final year Computer Science undergraduate student,IEM
+- 🎓 A B-tech Computer Science graduate, IEM'26
+- 💼 Associate IT Consultant at ITC INFOTECH, Working as a Junior Dot Net Developer
 - 🤖 Passionate about Machine Learning, Frontend Development, real-world problem solving & AI integration
 - 💻 I love building impactful apps — from disease prediction,weather App to movie rating engines
 - 🔭 Currently focused on placement prep and upskilling through projects and Internships
